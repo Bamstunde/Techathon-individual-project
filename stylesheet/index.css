@@ -32,7 +32,7 @@ text-align: center;
 }
 #div1 {
   text-align: center;
-  margin-top: 60px;
+/*   margin-top: 60px; */
   margin: auto;
   align-content: center;
   border-radius: 12px;
